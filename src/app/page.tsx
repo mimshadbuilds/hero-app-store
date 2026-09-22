@@ -1,7 +1,11 @@
-
+import Banner from "@/components/homapage/Banner";
+import TrandingApps from "@/components/homapage/trendingApps";
 
 export default function Home() {
   return (
-    <di
+    <div>
+      <Banner />
+      <TrandingApps />
+    </div>
   );
 }

@@ -6,7 +6,7 @@ import Link from "next/link";
 
 const TrandingApps = async () => {
     const data = await getAllApps();
-    console.log(data)
+    // console.log(data)
     return (
         <div className='my-[80px] container mx-auto'>
             <div className='space-y-4 max-w-[400px] mx-auto text-center'>
@@ -16,7 +16,7 @@ const TrandingApps = async () => {
 
             <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-10">
             {
-                (data && Array.isArray(data) ? data : []).slice(0, 8).map((app: IApp) => {
+                data.slice(0, 8).map((app: IApp) => {
                     return <AppCard key={app.id} app={app} />
                 })
             }

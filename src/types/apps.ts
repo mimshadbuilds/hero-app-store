@@ -2,7 +2,7 @@ export interface IApp {
     image: string;
     title: string;
     companyName: string;
-    id: number;
+    id: number | string;
     description: string;
     size: number;
     reviews: string;

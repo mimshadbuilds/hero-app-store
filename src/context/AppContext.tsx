@@ -1,7 +1,7 @@
 "use client";
 
 import { IApp } from "@/types/apps";
-import { createContext, useContext, useState, type Dispatch, type ReactNode, type SetStateAction, } from "react";
+import { createContext, useState, type Dispatch, type ReactNode, type SetStateAction, } from "react";
 
 interface IAppContextType {
     installedApps: IApp[];
@@ -26,13 +26,5 @@ const AppProvider = ({ children }: AppProviderProps) => {
         </AppContext.Provider>
     );
     };
-
-//    export const useAppContext = () => {   
-//     const context = useContext(AppContext);
-//     if (!context) {
-//         throw new Error("useAppContext not found!");
-//     }
-//     return context;
-// };
 
 export default AppProvider;

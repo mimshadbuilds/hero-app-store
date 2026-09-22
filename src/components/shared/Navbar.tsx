@@ -42,7 +42,7 @@ const Navbar = () => {
             </ul>
             </div>
             <Image src={logo} height={60} width={60} alt='hero-logo' />
-            <Link href={'/'} className=" text-xl text-slate-900/80 font-bold ml-2">Book Shelf</Link>
+            <Link href={'/'} className=" text-xl text-slate-900/80 font-bold ml-2">App Store</Link>
         </div>
         <div className="navbar-center hidden lg:flex">
             <ul className="menu menu-horizontal px-1">

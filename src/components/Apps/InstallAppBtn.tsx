@@ -6,9 +6,7 @@ import { useContext } from "react";
 
 const InstallAppButton = ({ app }: {app: IApp}) => {
     const { installedApps, setInstalledApps } = useContext(AppContext);
-    // console.log(data)
     const handleInstall = () => {
-        // console.log( 'install btn triggered',app)
         setInstalledApps([...installedApps, app]);
     };
     return (

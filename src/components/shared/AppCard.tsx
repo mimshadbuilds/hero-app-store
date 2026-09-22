@@ -2,6 +2,7 @@ import { IApp } from "@/types/apps";
 import Image from "next/image";
 import Link from "next/link";
 import { FaStar } from "react-icons/fa";
+import InstallAppButton from "../Apps/InstallAppBtn";
 
 interface IAppProps {
     app: IApp;
@@ -23,7 +24,7 @@ const AppCard = ({ app }: IAppProps) => {
                 </div>
 
                     <div className="min-w-0 flex-1">
-                        <h2 className="line-clamp-1 text-lg font-semibold">
+                        <h2 className="line-clamp-2 text-lg font-semibold">
                             {app.title}
                         </h2>
                         <p className="mt-0.5 truncate text-sm text-base-content/60">
@@ -34,9 +35,7 @@ const AppCard = ({ app }: IAppProps) => {
                         </p>
                     </div>
                 <div className="mt-2">
-                    <button type="button"
-                    className="btn btn-sm shrink-0 rounded-full border-0 bg-[#4f2bd6] px-5 text-white hover:bg-[#4323bd]">Install
-                    </button>
+                <InstallAppButton app={app} />
                 </div>
             </div>
 

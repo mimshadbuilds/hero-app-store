@@ -5,8 +5,7 @@ export const getAllApps = async () => {
             throw new Error(`HTTP error ${res.status}: ${res.statusText}`);
         }
         return await res.json();
-    } catch (error) {
-        console.error('Failed to fetch apps:', error);
-        throw error;
+    } catch {
+        return (await import('../../public/data.json')).default;
     }
 }

@@ -8,9 +8,8 @@ App Store Marketplace — A responsive app-store web app built with Next.js 16 (
 
 A modern, responsive **app-store marketplace** web application built with **Next.js 16 (App Router), TypeScript, Tailwind CSS v4, and DaisyUI**. Browse a catalog of apps, view detailed pages with ratings and reviews, install/uninstall apps with live state management via React Context, and enjoy polished loading skeletons and toast notifications — all wrapped in a clean, mobile-first UI.
 
-> 🔗 **Live Site:** _Add your deployed URL here (e.g. https://hero-app.vercel.app)_
+> 🔗 **Live Site:** (https://hero-app-store-eight.vercel.app/)
 >
-> 💻 **Repository:** _Add your GitHub repository URL here_
 
 ---
 
@@ -64,7 +63,7 @@ A modern, responsive **app-store marketplace** web application built with **Next
 
 ---
 
-## 🚀 Getting Started Locally
+## Getting Started Locally
 
 ### Prerequisites
 - **Node.js** 18.18+ (or newer)
@@ -132,7 +131,7 @@ public/
 
 ## 🔗 Useful Links
 
-- 🌐 **Live Demo:** _Add your deployed URL here_
+- 🌐 **Live Demo:** [_https://hero-app-store-eight.vercel.app/](https://hero-app-store-eight.vercel.app/)
 - 🐙 **GitHub Repository:** _Add your repository URL here_
 - ⚡ **Next.js Documentation** — [https://nextjs.org/docs](https://nextjs.org/docs)
 - 🎨 **Tailwind CSS** — [https://tailwindcss.com](https://tailwindcss.com)

@@ -1,5 +1,5 @@
-import AppCard from '../shared/AppCard';
 import { getAllApps } from '@/lib/api';
+import AppCard from '../shared/AppCard';
 import { IApp } from '@/types/apps';
 import Link from "next/link";
 
@@ -16,7 +16,7 @@ const TrandingApps = async () => {
 
             <div className="grid gap-4 grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 mt-10">
             {
-                data.slice(0, 8).map((app: IApp) => {
+                data.slice(0, 8).map((app) => {
                     return <AppCard key={app.id} app={app} />
                 })
             }

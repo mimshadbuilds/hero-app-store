@@ -8,11 +8,11 @@ import {
 } from "react-icons/fa";
 import InstallAppButton from "./InstallAppBtn";
 
-interface AppDetailsCardProps {
+interface IAppDetailsCardProps {
   app: IApp;
 }
 
-const AppDetailsCard = ({ app }: AppDetailsCardProps) => {
+const AppDetailsCard = ({ app }: IAppDetailsCardProps) => {
   const totalRatings = app.ratings.reduce(
     (total, rating) => total + rating.count,
     0

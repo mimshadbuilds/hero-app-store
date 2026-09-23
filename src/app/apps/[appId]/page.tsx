@@ -1,22 +1,27 @@
+import AppDetailsCard from '@/components/Apps/AppDetailsCard';
 import { getAllApps } from '@/lib/api';
 import { IApp } from '@/types/apps';
+import { notFound } from 'next/navigation';
 
-type TAppDetailsProp = {
+interface IAppDetailsProp {
     params: {
         appId: string
     }
 }
 
-const AppDetailsPage = async ({ params }: TAppDetailsProp) => {
+const AppDetailsPage = async ({ params }: IAppDetailsProp) => {
     const { appId } = await params;
     const allApps = await getAllApps();
 
-    const apps = allApps.find((app: IApp) => app.id === Number(appId));
-    console.log(apps, 'app details')
+    const app = allApps.find((item: IApp) => String(item.id) === appId);
+    
+    if (!app) {
+        notFound();
+    }
     return (
-        <div>
-            {apps}
-        </div>
+        <main className="container mx-auto px-4 py-8">
+            <AppDetailsCard app={app} />
+        </main>
     );
 };
 

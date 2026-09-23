@@ -10,9 +10,9 @@ const Navbar = () => {
     const pathname = usePathname();
     const links = 
     <>
-        <li><Link className={`links ${pathname === '/' ? 'text-blue-500' : 'text-slate-700'} text-base font-medium`} href='/'>Home</Link></li>
-        <li><Link className={`links ${pathname === '/apps' ? 'text-blue-500' : 'text-slate-700'} text-base font-medium`}  href='/apps'>Apps</Link></li>
-        <li><Link className={`links ${pathname === '/installation' ? 'text-blue-500' : 'text-slate-700'} text-base font-medium`}  href='/installation'>Installation</Link></li>
+        <li><Link className={`links ${pathname === '/' ? 'text-brand-start' : 'text-slate-700'} text-base font-medium`} href='/'>Home</Link></li>
+        <li><Link className={`links ${pathname === '/apps' ? 'text-brand-start' : 'text-slate-700'} text-base font-medium`}  href='/apps'>Apps</Link></li>
+        <li><Link className={`links ${pathname === '/installation' ? 'text-brand-start' : 'text-slate-700'} text-base font-medium`}  href='/installation'>Installation</Link></li>
     </>
     return (
     <div className="navbar bg-base-100 container mx-auto">

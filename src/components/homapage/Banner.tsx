@@ -14,7 +14,7 @@ const stats = [
             <div className="space-y-5 px-6 pt-10 text-center">
                 <h2 className="text-3xl md:text-5xl font-bold text-slate-950">
                 We Build <br />
-                <span className="text-purple-600">Productive</span> Apps
+                <span className="text-[#632ee3]">Productive</span> Apps
                 </h2>
                 <p className="mx-auto max-w-[700px] text-xs text-slate-600 md:text-sm">
                 At HERO.IO, we craft innovative apps designed to make everyday life
@@ -41,7 +41,7 @@ const stats = [
                         <span>App Store</span>
                     </button>
                 </div>
-                
+
                 <Image
                 src={banner}
                 alt="HERO.IO apps"

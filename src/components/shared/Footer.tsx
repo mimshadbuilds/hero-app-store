@@ -14,24 +14,24 @@ const Footer = () => {
                     className='object-cover'  />
                     <Link href={'/'} className=" text-xl text-slate-100 font-bold ml-2">App Store</Link>
                 </div>
-                </aside>
-                <div className='mt-10 md:block hidden'>
-                    <p className='text-xs text-center text-slate-400'>Copyright © 2027 - All right reserved.</p>
+            </aside>
+            <div className='mt-10 md:block hidden'>
+                <p className='text-xs text-center text-slate-400 pt-8'>Copyright © 2027 - All right reserved.</p>
+            </div>
+            <nav>
+                <h6 className="text-base font-medium text-white mb-2 text-center">Social links</h6>
+                <div className="grid grid-flow-col gap-4 text-white text-base mt-2">
+                    <Link href='#'>
+                        <FaGithub />
+                    </Link>
+                    <Link href='#'>
+                        <FaLinkedin />
+                    </Link>
+                    <Link href='#'>
+                        <FaFacebook />
+                    </Link>
                 </div>
-                <nav>
-                    <h6 className="text-base font-medium text-white mb-2 text-center">Social links</h6>
-                    <div className="grid grid-flow-col gap-4 text-white text-base mt-2">
-                        <Link href='#'>
-                            <FaGithub />
-                        </Link>
-                        <Link href='#'>
-                            <FaLinkedin />
-                        </Link>
-                        <Link href='#'>
-                            <FaFacebook />
-                        </Link>
-                    </div>
-                </nav>
+            </nav>
         </div>
     </footer>
     );

@@ -1,274 +1,664 @@
 {
-  "data":[
-  {
-    "image": "https://i.pinimg.com/736x/c6/09/0d/c6090df18193e2616a6a32076883b70c.jpg",
-    "title": "WhatsApp Messenger",
-    "companyName": "WhatsApp LLC",
-    "id": 1,
-    "description": "WhatsApp Messenger is a free messaging app available for Android and other smartphones. WhatsApp uses your phone's Internet connection to let you message and call friends and family. Switch from SMS to WhatsApp to send and receive messages, calls, photos, videos, documents, and voice messages. Stay connected with people no matter where they are, safely and securely with end-to-end encryption.",
-    "size": 80,
-    "reviews": "172000K",
-    "ratingAvg": 4.5,
-    "downloads": "5000M",
-    "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 2400000 },
-      { "name": "3 star", "count": 8400000 },
-      { "name": "4 star", "count": 25000000 },
-      { "name": "5 star", "count": 136000000 }
-    ]
-  },
-  {
-    "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/1200px-Spotify_logo_without_text.svg.png",
-    "title": "Spotify: Music and Podcasts",
-    "companyName": "Spotify AB",
-    "id": 2,
-    "description": "Spotify gives you instant access to millions of songs, albums, and podcasts from artists all over the world. Stream your favorite tracks, discover new music, and build playlists with ease. With personalized recommendations, offline playback, and high-quality audio, Spotify makes it simple to enjoy the perfect soundtrack to your life—anytime, anywhere.",
-    "size": 110,
-    "reviews": "32000K",
-    "ratingAvg": 4.4,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 9800000 },
-      { "name": "5 star", "count": 14900000 }
-    ]
-  },
-  {
-    "image": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png",
-    "title": "Instagram",
-    "companyName": "Instagram",
-    "id": 3,
-    "description": "Instagram brings you closer to the people and things you love. Connect with friends, share what you're up to, or see what's new from others all over the world. Explore communities, share photos and videos, and express yourself with creative tools like Reels, Stories, and filters. Build your presence, follow your interests, and make your mark online.",
-    "size": 130,
-    "reviews": "160000K",
-    "ratingAvg": 4.2,
-    "downloads": "5000M",
-    "ratings": [
-      { "name": "1 star", "count": 8000000 },
-      { "name": "2 star", "count": 10000000 },
-      { "name": "3 star", "count": 22000000 },
-      { "name": "4 star", "count": 45000000 },
-      { "name": "5 star", "count": 75000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg",
-    "title": "TikTok",
-    "companyName": "TikTok Pte. Ltd.",
-    "id": 4,
-    "description": "TikTok is the destination for mobile videos. Create short-form videos that are exciting, spontaneous, and genuine. Whether you're a sports fan, a pet lover, or just looking for laughter, there's something for everyone on TikTok. Discover millions of creators, participate in challenges, and share your creativity with the world.",
-    "size": 180,
-    "reviews": "45000K",
-    "ratingAvg": 4.4,
-    "downloads": "3000M",
-    "ratings": [
-      { "name": "1 star", "count": 3000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 13000000 },
-      { "name": "5 star", "count": 17000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
-    "title": "Snapchat",
-    "companyName": "Snap Inc",
-    "id": 5,
-    "description": "Snapchat lets you easily talk with friends, view Live Stories from around the world, and explore news in Discover. Send photos and videos that disappear after being viewed, or save memories to share later. Express yourself with filters, lenses, Bitmoji, and more. Snapchat makes everyday communication fun and fast.",
-    "size": 95,
-    "reviews": "28000K",
-    "ratingAvg": 4.3,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1700000 },
-      { "name": "3 star", "count": 4000000 },
-      { "name": "4 star", "count": 8800000 },
-      { "name": "5 star", "count": 12300000 }
-    ]
-  },
-  {
-    "image": "https://png.pngtree.com/png-clipart/20221018/ourmid/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png",
-    "title": "YouTube",
-    "companyName": "Google LLC",
-    "id": 6,
-    "description": "Get the official YouTube app for Android phones and tablets. See what the world is watching — from the hottest music videos to what's trending in gaming, entertainment, news, and more. Subscribe to channels you love, share with friends, and watch on any device. YouTube lets you explore endless video content tailored just for you.",
-    "size": 140,
-    "reviews": "145000K",
-    "ratingAvg": 4.5,
-    "downloads": "10000M",
-    "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 7000000 },
-      { "name": "3 star", "count": 13000000 },
-      { "name": "4 star", "count": 42000000 },
-      { "name": "5 star", "count": 79000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/59/6d/74/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
-    "title": "Telegram",
-    "companyName": "Telegram FZ-LLC",
-    "id": 7,
-    "description": "Telegram is a messaging app focused on speed and security. It's super-fast, simple, and free. You can send messages, photos, videos, and files of any type. Create groups for up to 200,000 members or channels for broadcasting to unlimited audiences. Cloud-based and encrypted, Telegram keeps your data safe while syncing seamlessly across all devices.",
-    "size": 75,
-    "reviews": "22000K",
-    "ratingAvg": 4.6,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 700000 },
-      { "name": "2 star", "count": 900000 },
-      { "name": "3 star", "count": 1800000 },
-      { "name": "4 star", "count": 5000000 },
-      { "name": "5 star", "count": 14600000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
-    "title": "Netflix",
-    "companyName": "Netflix, Inc.",
-    "id": 8,
-    "description": "Looking for the most talked-about TV shows and movies? They're all on Netflix. Watch award-winning series, documentaries, movies, and stand-up specials. With personalized recommendations and offline viewing, Netflix makes it easy to find your next favorite story anytime, anywhere.",
-    "size": 150,
-    "reviews": "25000K",
-    "ratingAvg": 4.3,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 1200000 },
-      { "name": "2 star", "count": 1900000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 8800000 },
-      { "name": "5 star", "count": 9800000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/44/72/7f/44727f1cea8b888d0fd752782bf9348f.jpg",
-    "title": "Google Maps",
-    "companyName": "Google LLC",
-    "id": 9,
-    "description": "Navigate your world faster and easier with Google Maps. Over 220 countries and territories mapped and hundreds of millions of businesses and places on the map. Get real-time GPS navigation, traffic, and transit info, and explore local neighborhoods. Whether you're commuting or traveling, Google Maps helps you find the best route every time.",
-    "size": 100,
-    "reviews": "160000K",
-    "ratingAvg": 4.4,
-    "downloads": "10000M",
-    "ratings": [
-      { "name": "1 star", "count": 6000000 },
-      { "name": "2 star", "count": 8000000 },
-      { "name": "3 star", "count": 12000000 },
-      { "name": "4 star", "count": 38000000 },
-      { "name": "5 star", "count": 96000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg",
-    "title": "Twitter (X)",
-    "companyName": "X Corp.",
-    "id": 10,
-    "description": "The X app (formerly Twitter) is the place to see what's happening. Follow your interests, join global conversations, and share your thoughts instantly. From breaking news to sports, entertainment, and politics, X connects you to the world in real-time.",
-    "size": 85,
-    "reviews": "30000K",
-    "ratingAvg": 4.0,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 2200000 },
-      { "name": "2 star", "count": 3400000 },
-      { "name": "3 star", "count": 4200000 },
-      { "name": "4 star", "count": 7200000 },
-      { "name": "5 star", "count": 13000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/98/92/8c/98928c82f78bdd50c5a28d8fa4633035.jpg",
-    "title": "Clash of Clans",
-    "companyName": "Supercell",
-    "id": 11,
-    "description": "Join millions of players worldwide as you build your village, raise a clan, and compete in epic Clan Wars! Clash of Clans is a strategic combat game where you command armies of Barbarians, Archers, and legendary heroes. Build defenses to protect your base and raid others for loot. With endless upgrades, clan events, and real-time battles, Clash of Clans delivers nonstop action and community-driven fun.",
-    "size": 280,
-    "reviews": "65000K",
-    "ratingAvg": 4.6,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 2000000 },
-      { "name": "2 star", "count": 2500000 },
-      { "name": "3 star", "count": 5000000 },
-      { "name": "4 star", "count": 12000000 },
-      { "name": "5 star", "count": 43500000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/51/6a/74/516a74d6d701c86c007f668d7cf2891a.jpg",
-    "title": "PUBG Mobile",
-    "companyName": "Level Infinite",
-    "id": 12,
-    "description": "PUBG Mobile delivers the most intense free-to-play multiplayer action on mobile. Drop into the battlefield, gear up, and fight to be the last one standing. Explore diverse maps, realistic weapons, and exciting modes like Team Deathmatch and Payload. With frequent updates and events, PUBG Mobile provides endless entertainment for competitive and casual gamers alike.",
-    "size": 750,
-    "reviews": "46000K",
-    "ratingAvg": 4.3,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 4000000 },
-      { "name": "2 star", "count": 5000000 },
-      { "name": "3 star", "count": 7000000 },
-      { "name": "4 star", "count": 11000000 },
-      { "name": "5 star", "count": 19000000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/69/81/7e/69817eac50792cffdb7973074e4b5bde.jpg",
-    "title": "Candy Crush Saga",
-    "companyName": "King",
-    "id": 13,
-    "description": "Start playing Candy Crush Saga today – a legendary puzzle game loved by millions around the world. Match colorful candies to progress through thousands of levels, each offering unique challenges and boosters. Easy to play but hard to master, Candy Crush Saga is the ultimate casual game that keeps you coming back for more delicious fun.",
-    "size": 260,
-    "reviews": "35000K",
-    "ratingAvg": 4.6,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 1500000 },
-      { "name": "2 star", "count": 2100000 },
-      { "name": "3 star", "count": 4100000 },
-      { "name": "4 star", "count": 8600000 },
-      { "name": "5 star", "count": 19700000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg",
-    "title": "LinkedIn",
-    "companyName": "LinkedIn Corporation",
-    "id": 14,
-    "description": "LinkedIn is the world's largest professional network. Connect with colleagues, discover career opportunities, and stay up to date with the latest industry trends. Build your personal brand, follow companies, and learn new skills through LinkedIn Learning. Whether you're job hunting or hiring, LinkedIn helps professionals succeed and grow together.",
-    "size": 120,
-    "reviews": "25000K",
-    "ratingAvg": 4.4,
-    "downloads": "1000M",
-    "ratings": [
-      { "name": "1 star", "count": 1000000 },
-      { "name": "2 star", "count": 1800000 },
-      { "name": "3 star", "count": 3200000 },
-      { "name": "4 star", "count": 7200000 },
-      { "name": "5 star", "count": 11800000 }
-    ]
-  },
-  {
-    "image": "https://i.pinimg.com/736x/52/b4/20/52b42001bcc7a0cb013c97eeb3ead223.jpg",
-    "title": "Duolingo: Learn Languages",
-    "companyName": "Duolingo",
-    "id": 15,
-    "description": "Learn a new language for free with Duolingo. Practice speaking, reading, listening, and writing in a fun, bite-sized way. Duolingo helps you master over 30 languages like Spanish, French, German, and Japanese. With gamified lessons, streak tracking, and personalized goals, Duolingo makes learning addictive and effective for everyone.",
-    "size": 65,
-    "reviews": "14000K",
-    "ratingAvg": 4.7,
-    "downloads": "500M",
-    "ratings": [
-      { "name": "1 star", "count": 400000 },
-      { "name": "2 star", "count": 700000 },
-      { "name": "3 star", "count": 1200000 },
-      { "name": "4 star", "count": 3200000 },
-      { "name": "5 star", "count": 8700000 }
-    ]
-  }
-]
+  "data": [
+    {
+      "image": "https://i.pinimg.com/736x/c6/09/0d/c6090df18193e2616a6a32076883b70c.jpg",
+      "title": "WhatsApp Messenger",
+      "companyName": "WhatsApp LLC",
+      "id": 1,
+      "description": "WhatsApp Messenger is a communication app designed to keep conversations simple, fast, and personal. It lets people connect through internet-based messaging instead of traditional SMS, while also supporting voice and video calls for more direct conversations. Users can communicate with individuals or groups, share updates, and stay connected with friends, relatives, classmates, and colleagues from almost anywhere. The familiar interface makes everyday conversations easy to start and continue. The app supports text messages, voice notes, photos, videos, documents, contact sharing, and other common forms of communication. Group chats can bring several conversations into one place, while voice and video calling make it possible to move from text to live conversation without switching services. Status updates provide a lightweight way to share photos, videos, or short messages with contacts. End-to-end encryption is used for personal messages and calls, helping protect the contents of supported conversations while they move between participants. WhatsApp can be useful for family communication, school groups, workplace coordination, customer conversations, community announcements, and casual social interaction. It is especially convenient when a large part of your contacts already uses the service, because conversations can continue across compatible mobile devices without requiring a separate traditional messaging plan. The overall experience focuses on reliability and convenience rather than complicated controls. Conversations, media sharing, calls, and group communication are brought together in one application, making it suitable for both occasional messages and frequent daily use. Whether you are sending a quick note, sharing a document, arranging a meeting, or catching up with someone through a video call, WhatsApp provides a straightforward communication experience.",
+      "size": 80,
+      "reviews": "172000K",
+      "ratingAvg": 4.5,
+      "downloads": "5000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1200000
+        },
+        {
+          "name": "2 star",
+          "count": 2400000
+        },
+        {
+          "name": "3 star",
+          "count": 8400000
+        },
+        {
+          "name": "4 star",
+          "count": 25000000
+        },
+        {
+          "name": "5 star",
+          "count": 136000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.postimg.cc/kXQNJcPn/spotify-music-icon.webp",
+      "title": "Spotify: Music and Podcasts",
+      "companyName": "Spotify AB",
+      "id": 2,
+      "description": "Spotify is a digital audio platform built around music, podcasts, playlists, and personalized discovery. It gives listeners access to a large catalog of songs and audio programs from artists, creators, and publishers around the world. Instead of relying only on albums or individual tracks, the app is designed to help people continuously discover something new through recommendations, curated playlists, charts, and personalized mixes. The experience works well for both casual listening and people who spend hours with audio every day. Users can search for artists, albums, songs, podcasts, and playlists, then save favorites for easier access later. Playlists can be created for different moods, activities, or occasions, while recommendations adapt to listening habits over time. Depending on the plan and supported features, listeners can also download content for offline playback and adjust audio preferences. Spotify supports music discovery through release collections, personalized playlists, genre selections, and recommendations based on previous listening activity. The service can fit many situations, including commuting, studying, exercising, relaxing, working, traveling, or simply playing background music at home. Podcasts add another category of content for news, interviews, storytelling, education, comedy, and entertainment. The combination of music and spoken audio means users can move between different types of content without leaving the same application. Spotify's interface emphasizes quick access to recently played content while still providing plenty of opportunities for exploration. Search, recommendations, playlists, libraries, and playback controls are organized around making audio easy to start and continue. For someone who wants a single place to manage everyday listening and discover new artists or shows, Spotify provides a broad and highly customizable audio experience.",
+      "size": 110,
+      "reviews": "32000K",
+      "ratingAvg": 4.4,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1200000
+        },
+        {
+          "name": "2 star",
+          "count": 1800000
+        },
+        {
+          "name": "3 star",
+          "count": 4200000
+        },
+        {
+          "name": "4 star",
+          "count": 9800000
+        },
+        {
+          "name": "5 star",
+          "count": 14900000
+        }
+      ]
+    },
+    {
+      "image": "https://png.pngtree.com/png-clipart/20180626/ourmid/pngtree-instagram-icon-instagram-logo-png-image_3584853.png",
+      "title": "Instagram",
+      "companyName": "Instagram",
+      "id": 3,
+      "description": "Instagram is a visual social platform centered on photos, videos, short-form content, stories, and conversations. It gives people a place to share everyday moments, follow creators and organizations, discover interests, and communicate with friends. The app combines a personalized feed with discovery tools that make it possible to move from familiar accounts to new communities and topics. Its visual-first design makes browsing fast and highly interactive, whether someone wants to post content or simply explore what others are sharing. Users can publish photos and videos, create Stories that disappear after a period, and make short-form Reels for more dynamic content. Creative tools provide filters, editing controls, music, text, stickers, and other options for customizing posts. Direct messaging supports private conversations and media sharing, while comments and reactions provide public ways to interact with posts. Profiles can also be used by creators, businesses, artists, photographers, and organizations to present their work or communicate with an audience. Instagram can be used for personal updates, photography, fashion, food, travel, entertainment, business promotion, creator communities, and interest-based discovery. Search and recommendation features make it easy to explore topics outside an existing list of followed accounts, while saved posts can help organize content worth revisiting later. The overall experience is designed around visual discovery and frequent interaction. A user can quickly check updates, respond to messages, watch short videos, explore a new topic, or publish something of their own. With its combination of social communication and creative publishing tools, Instagram works as both a personal network and a broad visual discovery platform.",
+      "size": 130,
+      "reviews": "160000K",
+      "ratingAvg": 4.2,
+      "downloads": "5000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 8000000
+        },
+        {
+          "name": "2 star",
+          "count": 10000000
+        },
+        {
+          "name": "3 star",
+          "count": 22000000
+        },
+        {
+          "name": "4 star",
+          "count": 45000000
+        },
+        {
+          "name": "5 star",
+          "count": 75000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/db/bb/57/dbbb57e4a4dd74be71504cdbac7a3095.jpg",
+      "title": "TikTok",
+      "companyName": "TikTok Pte. Ltd.",
+      "id": 4,
+      "description": "TikTok is a short-form video platform built around quick discovery, creative publishing, and personalized entertainment. Its feed continuously presents videos based on viewing behavior and interests, making the experience focused on discovering new creators and topics rather than only following a fixed list of accounts. Videos can cover comedy, music, sports, education, cooking, technology, lifestyle, travel, and many other subjects, giving users a broad stream of content that can change from one session to another. The app provides tools for recording, editing, trimming, combining clips, adding text, using effects, selecting sounds, and creating visually engaging short videos. Creators can respond to trends, participate in challenges, collaborate with other users, and develop recurring content formats. Viewers can interact through likes, comments, sharing, favorites, and follows. Search and topic pages make it possible to find specific creators, sounds, hashtags, or subjects instead of relying entirely on the personalized feed. TikTok can be useful for entertainment, creative expression, learning short tutorials, discovering music, following creators, and exploring rapidly changing online trends. Businesses and independent creators can also use short videos to present products, explain ideas, build an audience, or communicate in a more informal format. The platform is designed for fast interactions, so users can move between videos with very little friction. The combination of personalized recommendations and simple creation tools makes it easy to switch between watching and publishing. Whether someone wants a few minutes of entertainment or wants to experiment with their own short-form content, TikTok provides a highly visual and continuously changing video experience.",
+      "size": 180,
+      "reviews": "45000K",
+      "ratingAvg": 4.4,
+      "downloads": "3000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 3000000
+        },
+        {
+          "name": "2 star",
+          "count": 5000000
+        },
+        {
+          "name": "3 star",
+          "count": 7000000
+        },
+        {
+          "name": "4 star",
+          "count": 13000000
+        },
+        {
+          "name": "5 star",
+          "count": 17000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/4a/b5/9b/4ab59bf6437538d0d99264293ef3c479.jpg",
+      "title": "Snapchat",
+      "companyName": "Snap Inc",
+      "id": 5,
+      "description": "Snapchat is a social communication app built around visual messaging, short-lived content, stories, and creative camera experiences. It gives users a quick way to send photos and videos to friends while also providing tools for discovering public stories and entertainment. A major part of the experience is the camera, which can transform ordinary photos and videos with lenses, filters, effects, stickers, and other creative elements before they are shared. Users can communicate through direct messages, photo and video snaps, group conversations, and Stories. The app also includes Memories for saving selected content, Bitmoji for personalized avatars, and a range of camera effects that can change the appearance of a scene in real time. Discover and public content provide additional ways to explore creators, publishers, entertainment, and topics outside a user's immediate friend group. Snapchat can work well for casual conversations, quick updates, humorous exchanges, creative photography, and sharing moments without turning every interaction into a permanent post. Friends can use it throughout the day for lightweight communication, while creators and publishers can use Stories and public content to reach broader audiences. The interface emphasizes the camera and keeps many common actions close to the capture screen. This makes the app feel immediate and encourages users to communicate through visual content rather than long written posts. With messaging, camera tools, Stories, and discovery combined in one service, Snapchat provides a fast social experience centered on personal expression and everyday interaction. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 95,
+      "reviews": "28000K",
+      "ratingAvg": 4.3,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1200000
+        },
+        {
+          "name": "2 star",
+          "count": 1700000
+        },
+        {
+          "name": "3 star",
+          "count": 4000000
+        },
+        {
+          "name": "4 star",
+          "count": 8800000
+        },
+        {
+          "name": "5 star",
+          "count": 12300000
+        }
+      ]
+    },
+    {
+      "image": "https://png.pngtree.com/png-clipart/20221018/ourmid/pngtree-youtube-social-media-3d-stereo-png-image_6308427.png",
+      "title": "YouTube",
+      "companyName": "Google LLC",
+      "id": 6,
+      "description": "YouTube is a video platform that brings together entertainment, education, music, news, tutorials, live streams, and creator content in one searchable service. Users can watch videos from channels around the world, subscribe to creators they enjoy, and receive recommendations based on viewing activity. The platform covers an enormous range of subjects, from short educational explanations and product reviews to documentaries, music performances, gaming content, sports coverage, and long-form entertainment. The app supports playlists, subscriptions, comments, likes, sharing, search, live content, and personalized recommendations. Viewers can move between short-form videos and longer productions depending on what they want to watch. Creators can publish different formats, build channels, organize content into series or playlists, and communicate with viewers through posts and comments. Playback controls and quality settings allow users to adjust the viewing experience to their connection and device. YouTube is useful for learning practical skills, following favorite creators, watching entertainment, listening to music, researching products, keeping up with current topics, and finding answers to specific questions. Students can use tutorials and lectures, while professionals can use technical demonstrations and educational channels to supplement their work or learning. The service combines search with recommendations, so users can intentionally look for a specific video or simply browse until something interesting appears. Its broad creator ecosystem means there is content for almost every interest. Whether you need a five-minute tutorial, a full lecture, a music playlist, or an evening of entertainment, YouTube offers a flexible video experience with a large variety of formats. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 140,
+      "reviews": "145000K",
+      "ratingAvg": 4.5,
+      "downloads": "10000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 4000000
+        },
+        {
+          "name": "2 star",
+          "count": 7000000
+        },
+        {
+          "name": "3 star",
+          "count": 13000000
+        },
+        {
+          "name": "4 star",
+          "count": 42000000
+        },
+        {
+          "name": "5 star",
+          "count": 79000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/59/6d/74/596d74fed827cf406cbd2a4f0d8f00b2.jpg",
+      "title": "Telegram",
+      "companyName": "Telegram FZ-LLC",
+      "id": 7,
+      "description": "Telegram is a messaging platform designed around fast communication, large communities, media sharing, and synchronization across devices. It supports individual conversations, group chats, channels, voice communication, and file sharing while keeping conversations available through a cloud-based account. Users can access their messages from compatible devices without depending on a single phone for every conversation, which makes the service useful for people who regularly switch between desktop and mobile environments. The app supports messages, photos, videos, documents, voice notes, stickers, and other media. Groups can accommodate large communities, while channels provide a publishing format for organizations, creators, news sources, and interest-based communities. Telegram also provides search tools, pinned messages, shared media sections, and other organizational features that become particularly useful in active group conversations. Secret chats provide an additional privacy-focused option with different handling from regular cloud chats. Telegram can be useful for personal messaging, community management, announcements, file distribution, study groups, project coordination, and large interest-based communities. Its support for relatively large files and extensive group functionality makes it practical for conversations where ordinary messaging applications may feel restrictive. The overall interface combines familiar chat behavior with tools designed for larger communities and multi-device use. A person can maintain private conversations while also following channels or participating in large groups. The result is a flexible communication environment that can function as a simple messenger for everyday use or as a platform for communities that need more structure, reach, and file-sharing capability. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 75,
+      "reviews": "22000K",
+      "ratingAvg": 4.6,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 700000
+        },
+        {
+          "name": "2 star",
+          "count": 900000
+        },
+        {
+          "name": "3 star",
+          "count": 1800000
+        },
+        {
+          "name": "4 star",
+          "count": 5000000
+        },
+        {
+          "name": "5 star",
+          "count": 14600000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/72/a0/50/72a0500ff35991d147a6b48e4bffc721.jpg",
+      "title": "Netflix",
+      "companyName": "Netflix, Inc.",
+      "id": 8,
+      "description": "Netflix is a streaming entertainment service focused on television series, films, documentaries, comedy specials, and other video programming. The application is designed to make finding something to watch straightforward through personalized recommendations, categories, search, and curated collections. Instead of requiring users to manage individual downloads or physical media, Netflix provides an on-demand catalog that can be explored whenever a supported device has an appropriate internet connection. Users can browse titles, open detailed pages, view trailers or previews when available, create profiles, and continue watching content from where they stopped. Recommendations are influenced by viewing activity and can help surface programs that match a person's interests. Depending on the subscription and supported device, users may also download selected titles for offline viewing. Profiles make it easier for different members of a household to maintain separate viewing histories and recommendations. Netflix can be used for casual evening entertainment, family viewing, documentaries, international programming, original series, films, and comedy. Search and category tools are useful when users already know what they want, while recommendation rows can help when they are simply looking for something new. Offline downloads can also be useful during travel or situations where a reliable internet connection is not available. The experience focuses on visual browsing and quick playback. Large artwork, recognizable categories, and personalized recommendations make the catalog easy to explore without requiring complicated navigation. Whether someone wants to follow a long-running series, watch a movie, discover a documentary, or save something for a trip, Netflix provides a convenient streaming-oriented entertainment experience.",
+      "size": 150,
+      "reviews": "25000K",
+      "ratingAvg": 4.3,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1200000
+        },
+        {
+          "name": "2 star",
+          "count": 1900000
+        },
+        {
+          "name": "3 star",
+          "count": 4200000
+        },
+        {
+          "name": "4 star",
+          "count": 8800000
+        },
+        {
+          "name": "5 star",
+          "count": 9800000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/44/72/7f/44727f1cea8b888d0fd752782bf9348f.jpg",
+      "title": "Google Maps",
+      "companyName": "Google LLC",
+      "id": 9,
+      "description": "Google Maps is a navigation and location service that helps people find places, plan routes, explore neighborhoods, and understand travel conditions. It combines maps, search, directions, business information, and location-based recommendations in one application. Users can search for addresses, restaurants, stores, landmarks, services, and other places, then choose different ways to reach them depending on available transportation and current conditions. The app provides turn-by-turn navigation, estimated travel times, route options, traffic information, transit details, walking directions, cycling routes, and location sharing features. Place pages can include business hours, photos, reviews, contact information, and other useful details. Users can save favorite locations, create lists, and revisit places they have searched for previously. Street-level imagery and map layers can also help users understand an unfamiliar area before visiting. Google Maps can support daily commuting, road trips, public transportation, walking around a new city, finding nearby services, and planning travel. It is also useful for discovering businesses and attractions when someone does not already know exactly where to go. Route information can help users compare alternatives and make decisions based on distance, travel time, or transportation method. The app brings a large amount of location information into a relatively simple interface. Search, map browsing, place details, and navigation are closely connected, so a user can move from discovering a destination to planning a route without switching applications. For everyday navigation and broader location discovery, Google Maps provides a practical combination of geographic information and travel tools. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 100,
+      "reviews": "160000K",
+      "ratingAvg": 4.4,
+      "downloads": "10000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 6000000
+        },
+        {
+          "name": "2 star",
+          "count": 8000000
+        },
+        {
+          "name": "3 star",
+          "count": 12000000
+        },
+        {
+          "name": "4 star",
+          "count": 38000000
+        },
+        {
+          "name": "5 star",
+          "count": 96000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/f7/b8/82/f7b88227115c0f076c245d7450d5f976.jpg",
+      "title": "Twitter (X)",
+      "companyName": "X Corp.",
+      "id": 10,
+      "description": "X, formerly known as Twitter, is a social platform centered on short posts, conversations, real-time updates, media, and public discussion. Users can follow people, organizations, creators, journalists, athletes, businesses, and communities to build a personalized stream of information. The platform is especially associated with fast-moving conversations, where posts can spread quickly as people reply, repost, quote, and discuss them in public threads. Users can publish text posts along with images, videos, links, polls, and other supported media. Replies create conversation threads, while reposts and quote posts allow users to share content with their own audiences. Search and trending features can help users find discussions around particular topics. Direct messages provide a more private communication channel, while lists, bookmarks, and other organization tools can help users manage the large amount of information available on the platform. X can be useful for following breaking developments, entertainment, sports discussions, technology communities, creators, organizations, and public conversations. Businesses and individuals can use it to publish updates, communicate with audiences, participate in discussions, and monitor conversations around particular topics. The platform's public nature also makes it useful for discovering viewpoints and links that are circulating widely online. The experience is built around immediacy. A user can open the app and quickly see recent posts, join a conversation, or search for a topic without needing to navigate through many layers. Because content changes continuously, the platform is particularly suited to people who want a live stream of public conversation and updates rather than a static collection of posts.",
+      "size": 85,
+      "reviews": "30000K",
+      "ratingAvg": 4.0,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 2200000
+        },
+        {
+          "name": "2 star",
+          "count": 3400000
+        },
+        {
+          "name": "3 star",
+          "count": 4200000
+        },
+        {
+          "name": "4 star",
+          "count": 7200000
+        },
+        {
+          "name": "5 star",
+          "count": 13000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/98/92/8c/98928c82f78bdd50c5a28d8fa4633035.jpg",
+      "title": "Clash of Clans",
+      "companyName": "Supercell",
+      "id": 11,
+      "description": "Clash of Clans is a strategy game centered on village building, resource management, troop development, and competitive clan play. Players begin by developing a base, collecting resources, constructing defenses, and training different types of troops. Progression comes from improving buildings, unlocking stronger units, and learning how different combinations of defenses and attacks work. The game combines long-term planning with battles that provide immediate goals and rewards. Players can create or join clans, participate in clan-based events, and coordinate attacks with other members. The village layout matters because defensive structures must be positioned carefully to protect valuable resources and important buildings. Offensive strategy also requires choosing troops and spells that match the target's defenses. Heroes provide additional strategic options as they are upgraded, while seasonal events and challenges can introduce new objectives and rewards. Clash of Clans can appeal to players who enjoy strategic planning, gradual progression, base design, and competitive multiplayer systems. It can be played in short sessions to manage upgrades or collect resources, while larger battles and clan events provide longer-term goals. The social component gives players reasons to coordinate with teammates rather than treating the game as a completely individual experience. The combination of construction and combat gives the game two complementary loops: build a stronger village and use strategic attacks to progress further. Successful play involves balancing resources, upgrade priorities, defensive planning, and troop choices. For players who enjoy strategy with persistent progression and an active community component, Clash of Clans offers a long-running mobile gaming experience.",
+      "size": 280,
+      "reviews": "65000K",
+      "ratingAvg": 4.6,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 2000000
+        },
+        {
+          "name": "2 star",
+          "count": 2500000
+        },
+        {
+          "name": "3 star",
+          "count": 5000000
+        },
+        {
+          "name": "4 star",
+          "count": 12000000
+        },
+        {
+          "name": "5 star",
+          "count": 43500000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/51/6a/74/516a74d6d701c86c007f668d7cf2891a.jpg",
+      "title": "PUBG Mobile",
+      "companyName": "Level Infinite",
+      "id": 12,
+      "description": "PUBG Mobile is a multiplayer battle royale game focused on survival, exploration, equipment management, and competitive combat. Players enter a large battlefield, search for weapons and supplies, and compete against other players while a shrinking play area pushes survivors toward increasingly concentrated encounters. Matches can be played individually or with teammates, giving the game both personal and cooperative strategic elements. The game includes different maps, weapons, vehicles, equipment, and modes that change the pace and style of each match. Players must decide when to fight, when to move, and when to avoid unnecessary encounters. Team communication can become important in squad matches because players need to coordinate movement, share resources, revive teammates, and react to opponents. Regular events and updates can introduce additional content and temporary challenges. PUBG Mobile can suit players who enjoy competitive multiplayer games, tactical decision-making, fast reactions, and unpredictable matches. A single round can involve quiet exploration followed by sudden combat, so players need to adapt quickly to changing situations. Different modes can also provide shorter or more specialized experiences for players who do not always want a full battle royale match. The game's core appeal comes from the combination of uncertainty and strategy. Players start with limited resources and must build their position during the match while responding to opponents and the changing safe zone. Successful play requires awareness, positioning, equipment choices, and communication. For players who enjoy competitive mobile action with both tactical and mechanical elements, PUBG Mobile provides a large-scale multiplayer experience. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 750,
+      "reviews": "46000K",
+      "ratingAvg": 4.3,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 4000000
+        },
+        {
+          "name": "2 star",
+          "count": 5000000
+        },
+        {
+          "name": "3 star",
+          "count": 7000000
+        },
+        {
+          "name": "4 star",
+          "count": 11000000
+        },
+        {
+          "name": "5 star",
+          "count": 19000000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/69/81/7e/69817eac50792cffdb7973074e4b5bde.jpg",
+      "title": "Candy Crush Saga",
+      "companyName": "King",
+      "id": 13,
+      "description": "Candy Crush Saga is a match-three puzzle game built around colorful levels, simple rules, and progressively more challenging objectives. Players swap adjacent candies to create matching combinations and clear parts of the board. Early levels introduce the basic mechanics gradually, while later stages add obstacles, special candies, limited moves, and other elements that require more careful planning. Special combinations can create powerful effects that clear rows, columns, groups, or larger sections of the board. Different level objectives encourage players to think about more than simply making matches, because success can depend on collecting specific items, clearing blockers, reaching a target score, or completing an objective within a limited number of moves. Boosters and special mechanics can provide additional options when a level becomes difficult. The game is designed for short sessions, making it convenient for casual play during breaks, travel, or downtime. At the same time, its large collection of levels provides long-term progression for players who enjoy gradually working through increasingly difficult puzzles. The colorful presentation and straightforward controls also make the basic gameplay easy to understand without requiring a lengthy tutorial. Candy Crush Saga combines accessibility with increasingly demanding puzzle decisions. A player can start a level within seconds, understand the immediate objective, and experiment with different combinations to find a solution. The familiar match-three foundation keeps the controls simple, while level-specific challenges create variety. For people who enjoy casual puzzle games with persistent progression and a large number of stages, it provides an easy-to-start but increasingly strategic experience.",
+      "size": 260,
+      "reviews": "35000K",
+      "ratingAvg": 4.6,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1500000
+        },
+        {
+          "name": "2 star",
+          "count": 2100000
+        },
+        {
+          "name": "3 star",
+          "count": 4100000
+        },
+        {
+          "name": "4 star",
+          "count": 8600000
+        },
+        {
+          "name": "5 star",
+          "count": 19700000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/b2/f8/28/b2f828513f21444829a619ce563d4d4e.jpg",
+      "title": "LinkedIn",
+      "companyName": "LinkedIn Corporation",
+      "id": 14,
+      "description": "LinkedIn is a professional networking platform designed for career development, industry communication, job discovery, and professional identity. Users can create profiles that describe their experience, education, skills, projects, and accomplishments, then connect with colleagues, recruiters, companies, and people working in related fields. The platform combines professional networking with a content feed, allowing users to follow organizations and individuals while keeping up with developments in industries they care about. Users can publish posts, share professional updates, react to industry discussions, and participate in conversations. Job search tools allow people to browse openings using filters such as location, experience level, job type, and other criteria. Company pages provide information about organizations and their activities, while profile sections can help recruiters understand a candidate's background. LinkedIn Learning also provides educational material in supported plans and regions. LinkedIn can be useful for job searching, networking, building a professional portfolio, following companies, discovering industry news, recruiting, and maintaining long-term career connections. Students can use it to begin developing a professional presence, while experienced professionals can use the platform to communicate expertise, explore opportunities, or stay connected with former colleagues. The service works best when a profile is treated as an evolving professional identity rather than a static resume. Regular activity can help users maintain connections and discover conversations relevant to their field. By combining profiles, networking, publishing, company information, and job search tools, LinkedIn provides a broad environment for professional communication and career-oriented discovery. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 120,
+      "reviews": "25000K",
+      "ratingAvg": 4.4,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 1000000
+        },
+        {
+          "name": "2 star",
+          "count": 1800000
+        },
+        {
+          "name": "3 star",
+          "count": 3200000
+        },
+        {
+          "name": "4 star",
+          "count": 7200000
+        },
+        {
+          "name": "5 star",
+          "count": 11800000
+        }
+      ]
+    },
+    {
+      "image": "https://i.pinimg.com/736x/52/b4/20/52b42001bcc7a0cb013c97eeb3ead223.jpg",
+      "title": "Duolingo: Learn Languages",
+      "companyName": "Duolingo",
+      "id": 15,
+      "description": "Duolingo is a language-learning application built around short, interactive lessons and frequent practice. It covers multiple language skills through exercises involving vocabulary, reading, listening, speaking, and sentence construction. Lessons are divided into manageable activities so learners can practice for a few minutes at a time rather than needing a long uninterrupted study session. The app also uses progress systems to encourage regular practice and make learning feel more like a structured daily routine. Exercises introduce words and grammar gradually, then reinforce them through repetition and varied question formats. Listening activities help learners recognize spoken language, while speaking exercises can provide practice with pronunciation. Streaks, points, levels, challenges, and other progress indicators encourage users to return regularly. Courses are organized into units so learners can see what they have already practiced and what material is available next. Duolingo can be useful for beginners, casual learners, travelers, students, and people who want to maintain regular contact with a language. It can complement other learning methods by providing repeated exposure to vocabulary and common sentence patterns. Short sessions make it particularly suitable for commuting, breaks, or a daily study habit where consistency matters more than long individual sessions. The platform emphasizes repetition and accessibility rather than presenting language study as a traditional classroom course. Users can start quickly, complete a lesson, review mistakes, and continue later without losing the overall structure of their progress. For someone who wants a convenient way to practice a language regularly, Duolingo provides a lightweight learning environment with clear progression and frequent interactive exercises.",
+      "size": 65,
+      "reviews": "14000K",
+      "ratingAvg": 4.7,
+      "downloads": "500M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 400000
+        },
+        {
+          "name": "2 star",
+          "count": 700000
+        },
+        {
+          "name": "3 star",
+          "count": 1200000
+        },
+        {
+          "name": "4 star",
+          "count": 3200000
+        },
+        {
+          "name": "5 star",
+          "count": 8700000
+        }
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/99/Gmail_logo_2026.png",
+      "title": "Gmail",
+      "companyName": "Google LLC",
+      "id": 16,
+      "description": "Gmail is an email application designed for sending, receiving, organizing, and searching messages across personal and professional accounts. It provides a familiar inbox structure while adding tools that help users manage large amounts of email more efficiently. Messages can be grouped into conversations, categorized, searched by keywords or filters, and organized with labels. The application is closely integrated with other Google services, making it useful for people who already use a broader Google account ecosystem. Users can compose messages, attach files, reply to conversations, forward information, and manage multiple types of incoming mail. Search is one of the service's central features, allowing users to find older messages using names, keywords, dates, attachments, and other criteria. Spam filtering helps separate unwanted messages, while labels, stars, archives, and categories provide different ways to keep the inbox organized. Gmail also supports features such as scheduled sending and integration with calendar-related workflows. Gmail can be useful for personal communication, job applications, school work, business correspondence, account notifications, receipts, and document exchange. Because email remains a standard communication method across many organizations, a reliable mobile inbox is valuable for staying updated when away from a computer. The application balances a relatively simple inbox with powerful search and organization features. A user can quickly respond to a recent message or search through years of older correspondence without needing a separate archive system. With support for attachments, labels, filtering, search, and integration with other services, Gmail provides a practical environment for managing everyday email communication. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 75,
+      "reviews": "150000K",
+      "ratingAvg": 4.6,
+      "downloads": "10000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 4000000
+        },
+        {
+          "name": "2 star",
+          "count": 5000000
+        },
+        {
+          "name": "3 star",
+          "count": 10000000
+        },
+        {
+          "name": "4 star",
+          "count": 36000000
+        },
+        {
+          "name": "5 star",
+          "count": 95000000
+        }
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Google_Drive_logo.png",
+      "title": "Google Drive",
+      "companyName": "Google LLC",
+      "id": 17,
+      "description": "Google Drive is a cloud storage and file-management application that lets users store, access, organize, and share digital files across supported devices. It can hold documents, images, videos, PDFs, spreadsheets, presentations, and other common file types while keeping them associated with a user's cloud account. Because files can be accessed from multiple devices, Drive is useful for people who move between phones, tablets, and computers throughout the day. Users can upload files, create folders, search their storage, rename items, move content, and share files with other people. Shared permissions can be adjusted depending on whether someone should view, comment on, or edit supported content. Drive also connects closely with Google Docs, Sheets, and Slides, allowing users to work with office-style documents without maintaining separate copies on every device. Recent files and search tools make frequently used content easier to locate. Google Drive can support students storing assignments, professionals managing project documents, teams sharing resources, and individuals keeping backups of important files. It is particularly useful when several people need access to the same documents because sharing can reduce the need to repeatedly send attachments through email or messaging services. The main advantage of cloud storage is that the file remains available through the account rather than being tied to one physical device. A user can begin working on a document from one location and access it later somewhere else. With storage, search, sharing, and document collaboration working together, Google Drive provides a flexible foundation for personal file management and collaborative workflows.",
+      "size": 90,
+      "reviews": "12000K",
+      "ratingAvg": 4.4,
+      "downloads": "1000M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 700000
+        },
+        {
+          "name": "2 star",
+          "count": 1000000
+        },
+        {
+          "name": "3 star",
+          "count": 2200000
+        },
+        {
+          "name": "4 star",
+          "count": 4200000
+        },
+        {
+          "name": "5 star",
+          "count": 7800000
+        }
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/2/24/Zoom-Logo.png",
+      "title": "Zoom Workplace",
+      "companyName": "Zoom Video Communications",
+      "id": 18,
+      "description": "Zoom Workplace is a communication and collaboration application centered on online meetings, video calls, team communication, and remote work. It allows people to participate in virtual meetings from phones, tablets, and computers, making it possible to communicate when participants are in different locations. The platform is commonly used for professional meetings, classes, interviews, presentations, training sessions, and group discussions where live audio and video are important. Meeting features can include video and audio controls, screen sharing, chat, participant management, virtual backgrounds, and other collaboration tools depending on the account and meeting configuration. Hosts can organize sessions, invite participants, and control how people interact during a call. Screen sharing is particularly useful for presentations, demonstrations, software walkthroughs, and collaborative discussions where participants need to see the same visual information. Zoom can be useful for remote teams, online classes, interviews, client meetings, webinars, tutoring, workshops, and personal video conversations. It can reduce the need for everyone to be physically present in the same location while still providing a more direct interaction than text-only communication. The experience focuses on joining or starting meetings with relatively little friction. Participants can enter a session through an invitation and then use the available audio, video, chat, and sharing controls as needed. For people who regularly communicate across different locations, Zoom provides a practical video-conferencing environment that combines live conversation with screen-based collaboration. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 110,
+      "reviews": "9000K",
+      "ratingAvg": 4.2,
+      "downloads": "500M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 700000
+        },
+        {
+          "name": "2 star",
+          "count": 900000
+        },
+        {
+          "name": "3 star",
+          "count": 1600000
+        },
+        {
+          "name": "4 star",
+          "count": 2500000
+        },
+        {
+          "name": "5 star",
+          "count": 4300000
+        }
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/5/50/Microsoft_Teams.png",
+      "title": "Microsoft Teams",
+      "companyName": "Microsoft Corporation",
+      "id": 19,
+      "description": "Microsoft Teams is a collaboration application that brings messaging, meetings, file sharing, and team-based communication into one workspace. It is designed for organizations, project groups, classrooms, and other teams that need to coordinate work across multiple people. Instead of separating chat, meetings, and shared documents into unrelated services, Teams provides channels and conversations where information can be organized around particular teams, projects, or topics. Users can send messages, participate in group conversations, join video meetings, share screens, exchange files, and collaborate around shared work. Teams can be organized into channels so that discussions do not all have to happen in one large conversation. Integration with Microsoft 365 services can make it possible to work with documents, calendars, and other productivity tools from within a broader organizational workflow. Microsoft Teams can be useful for remote and hybrid workplaces, school classes, project groups, internal communication, meetings, and collaborative planning. Teams can maintain conversations over time, while meetings provide a more immediate communication format when a topic requires direct discussion. Shared files can remain associated with the relevant team or conversation rather than being distributed through individual email attachments. The application's main focus is keeping team communication connected to the work being discussed. Users can move between chat, meetings, files, and shared resources without constantly switching platforms. For organizations that already depend on Microsoft productivity services, Teams can provide a central place for communication and collaboration while keeping project-related information organized. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 160,
+      "reviews": "7000K",
+      "ratingAvg": 4.5,
+      "downloads": "500M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 500000
+        },
+        {
+          "name": "2 star",
+          "count": 700000
+        },
+        {
+          "name": "3 star",
+          "count": 1200000
+        },
+        {
+          "name": "4 star",
+          "count": 2200000
+        },
+        {
+          "name": "5 star",
+          "count": 4200000
+        }
+      ]
+    },
+    {
+      "image": "https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png",
+      "title": "Slack",
+      "companyName": "Slack Technologies",
+      "id": 20,
+      "description": "Slack is a team communication platform designed to organize workplace conversations into channels, direct messages, and topic-focused discussions. It provides a shared environment where teams can communicate without relying entirely on long email threads. Conversations can be separated by project, department, client, or subject, making it easier to find relevant information and keep unrelated discussions from becoming mixed together. Users can send messages, share files, react to posts, search previous conversations, and communicate directly with individuals or smaller groups. Channels provide a persistent place for project discussions, while direct messages work well for quick one-to-one conversations. Slack can also connect with external services and development or productivity tools, allowing notifications and updates from other systems to appear inside relevant channels. Slack can be useful for software teams, agencies, startups, remote organizations, customer-support groups, creative teams, and project-based workplaces. Developers can connect tools such as version control, deployment services, issue trackers, and monitoring systems so that important updates reach the people who need them. Teams can also use channels for announcements, casual conversation, documentation, and project coordination. The platform is designed around searchable, persistent communication rather than one continuous inbox. This makes it possible to revisit older discussions and find files or decisions that might otherwise disappear inside email threads. With channels, direct messaging, integrations, and strong search capabilities, Slack provides a flexible communication environment for teams that need frequent collaboration and organized conversations. The interface also keeps common actions easy to reach, so users can move between core features without a complicated setup. This makes the application approachable for both occasional users and people who rely on it regularly.",
+      "size": 85,
+      "reviews": "5000K",
+      "ratingAvg": 4.4,
+      "downloads": "100M",
+      "ratings": [
+        {
+          "name": "1 star",
+          "count": 300000
+        },
+        {
+          "name": "2 star",
+          "count": 500000
+        },
+        {
+          "name": "3 star",
+          "count": 900000
+        },
+        {
+          "name": "4 star",
+          "count": 1500000
+        },
+        {
+          "name": "5 star",
+          "count": 2800000
+        }
+      ]
+    }
+  ]
 }

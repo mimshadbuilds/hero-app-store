@@ -1,5 +1,6 @@
 import Image from "next/image";
 import banner from "@/assets/hero.png";
+import { FaApple, FaGooglePlay } from "react-icons/fa";
 
 const stats = [
     { label: "Total Downloads", value: "29.6M", note: "21% More Than Last Month" },
@@ -11,25 +12,40 @@ const stats = [
         return (
             <section className="overflow-hidden rounded-lg bg-base-100 shadow-md">
             <div className="space-y-5 px-6 pt-10 text-center">
-                <h2 className="text-4xl font-bold text-slate-950">
+                <h2 className="text-3xl md:text-5xl font-bold text-slate-950">
                 We Build <br />
                 <span className="text-purple-600">Productive</span> Apps
                 </h2>
-                <p className="mx-auto max-w-[700px] text-sm text-slate-600">
+                <p className="mx-auto max-w-[700px] text-xs text-slate-600 md:text-sm">
                 At HERO.IO, we craft innovative apps designed to make everyday life
                 simpler, smarter, and more exciting. Our goal is to turn your ideas
                 into digital experiences that truly make an impact.
                 </p>
 
                 <div className="flex justify-center gap-2">
-                    <button className="btn btn-success text-white">Google</button>
-                    <button className="btn btn-primary text-white">App Store</button>
+                    <button className="flex h-11 items-center gap-3
+                        rounded-sm border border-base-300
+                        bg-base-100 px-4
+                        text-sm font-semibold text-base-content
+                        transition hover:bg-base-200">
+                        <FaGooglePlay className="text-lg text-[#34A853]" />
+                        <span>Google Play</span>
+                    </button>
+
+                    <button className="flex h-11 items-center gap-3
+                        rounded-sm border border-base-300
+                        bg-base-100 px-4
+                        text-sm font-semibold text-base-content
+                        transition hover:bg-base-200">
+                        <FaApple className="text-xl text-[#007AFF]" />
+                        <span>App Store</span>
+                    </button>
                 </div>
+                
                 <Image
                 src={banner}
                 alt="HERO.IO apps"
-                className="mx-auto h-auto w-[750px]"
-                />
+                className="mx-auto h-auto w-[750px]"/>
             </div>
             <div className="brand-gradient px-6 py-12 text-center text-white md:py-14">
                 <h3 className="text-2xl font-bold md:text-4xl">

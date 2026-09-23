@@ -1,7 +1,6 @@
 import { IApp } from '@/types/apps';
 import Image from 'next/image';
 import { MdOutlineFileDownload } from 'react-icons/md';
-import { TbTrash } from 'react-icons/tb';
 
 const InstalledAppCard = ({ app, onRemove }: {
     app: IApp;
@@ -20,19 +19,19 @@ const InstalledAppCard = ({ app, onRemove }: {
                     />
                 </div>
                 <div className='shrink-0'>
-                    <h2 className="truncate text-lg font-bold sm:text-xl">{app.title}</h2>
+                    <h2 className="truncate text-sm md:text-base font-bold sm:text-xl">{app.title}</h2>
                     <div className='flex items-center gap-2'>
-                        <p className="mt-1 text-sm font-medium text-base-content/60 flex items-center"><MdOutlineFileDownload /> {app.downloads}</p>
-                        <p className="mt-1 text-sm font-medium text-base-content/60">{app.ratingAvg}★</p>
-                        <p className="mt-1 text-xs font-semibold text-base-content/50">Size: {app.size} MB</p>
+                        <p className="mt-1 text-sm font-medium text-emerald-400 flex items-center"><MdOutlineFileDownload /> {app.downloads}</p>
+                        <p className="mt-1 text-sm font-medium text-amber-400">{app.ratingAvg}★</p>
+                        <p className="mt-1 text-xs font-semibold text-base-content/50">{app.size} MB</p>
                     </div>
                 </div>
             </div>
             <button
                 title={`Remove ${app.title}`}
                 onClick={() => onRemove(app)}
-                className="btn btn-ghost btn-circle text-error hover:bg-error/10">
-                <TbTrash className="text-xl" />
+                className="btn text-sm md:text-base text-white bg-[#00d390] hover:bg-[#019566]">
+                Uninstall
             </button>
         </div>
     );

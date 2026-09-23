@@ -9,6 +9,7 @@ interface IAppProps {
 }
 
 const AppCard = ({ app }: IAppProps) => {
+
  return (
     <section className="container mx-auto">
         <div className="w-full rounded-xl border border-base-200 bg-base-100 p-5 shadow-sm transition-all duration-300 hover:-translate-y-1 hover:shadow-md">   
@@ -24,7 +25,7 @@ const AppCard = ({ app }: IAppProps) => {
                 </div>
 
                     <div className="min-w-0 flex-1">
-                        <h2 className="line-clamp-2 text-lg font-semibold">
+                        <h2 className="line-clamp-1 text-lg font-semibold">
                             {app.title}
                         </h2>
                         <p className="mt-0.5 truncate text-sm text-base-content/60">
@@ -44,7 +45,7 @@ const AppCard = ({ app }: IAppProps) => {
                 <div className="border-r border-base-200 px-2 py-3 text-center">
                     <div className="flex items-center justify-center gap-1 text-sm font-semibold">
                         {app.ratingAvg}
-                        <FaStar className="text-xs" />
+                        <FaStar className="text-xs text-amber-500" />
                     </div>
                     <p className="mt-1 text-xs text-base-content/60">
                     Ratings
@@ -72,7 +73,7 @@ const AppCard = ({ app }: IAppProps) => {
 
             <div className="mt-4">
             <Link href={`/apps/${app.id}`}
-                className="btn btn-sm btn-outline w-full rounded-lg">
+                className="btn btn-sm btn-gradient hover:bg-[#9e75fd] transition duration-300 text-white w-full rounded-lg">
                 View Details
             </Link>
             </div>

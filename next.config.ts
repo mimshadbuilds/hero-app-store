@@ -5,6 +5,10 @@ const nextConfig: NextConfig = {
   images: {
     remotePatterns: [
       {
+      protocol: "https",
+      hostname: "i.postimg.cc",
+      },
+      {
         protocol: "https",
         hostname: "i.pinimg.com",
       },
@@ -15,6 +19,10 @@ const nextConfig: NextConfig = {
       {
         protocol: "https",
         hostname: "png.pngtree.com",
+      },
+      {
+      protocol: "https",
+      hostname: "upload.wikimedia.org",
       },
     ],
   },
